@@ -1,4 +1,4 @@
-En este trabajo se analizara sobre datos de la Champions League en que se usara distitnas librerias como el numpy, pnadas, matplotlib y seaborn.
+En este trabajo se analizara sobre datos de la Champions League en que se usara distintas librerias como el numpy, pandas, matplotlib y seaborn.
 
 Aqui tambien se encuentra el archivo de los datos de la Champions League.
 
